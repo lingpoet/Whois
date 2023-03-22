@@ -1,1 +1,1 @@
-# Whois 查询
+# Whois
